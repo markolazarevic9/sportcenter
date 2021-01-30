@@ -1,0 +1,97 @@
+body {
+ background-color: black ;
+
+ font-family: Georgia;
+}
+ nav ul li a:hover {
+   opacity: 80%;
+   transition: 0.4s;
+}
+
+
+#logo {
+  	margin-left: 30px;
+  	margin-right: 35px;
+  	margin-top: 15px;
+  	margin-bottom: 10px;
+  }
+ h1 {
+     
+      color:  blue;
+      display: inline-block;
+
+     }
+
+nav ul {
+  margin-left: 10px;
+}
+
+nav ul li a {
+  font-size: 90%;
+  letter-spacing: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+nav {
+  background-color: blue ;
+  height: 50px;
+
+
+}
+
+.fab {
+  font-size: 20px;
+  padding: 0;
+}
+
+#navbarNav {
+  background-color: blue;
+  z-index: 10;
+ 
+
+}
+#navbarNav a:hover {
+  border-bottom: none;
+}
+
+
+footer {
+  background-color: blue;
+  color: #fff;
+  font-family: Georgia;
+  letter-spacing: 2px;
+  font-size: 70%;
+  
+
+}
+footer ul {
+  margin-top: 15px;
+}
+footer a {
+  color: #fff;
+}
+
+ footer  a:hover {
+          color: #cccccc;
+          text-decoration: none;
+        }
+footer p a:hover {
+color: #cccccc;
+text-decoration: none;
+        }
+        .list-inline-item a:hover{
+          color: #cccccc;
+          text-decoration: none;
+        }
+
+hr {
+  background-color: black ;
+}
+
+h2  {
+  margin-top: 15px; 
+}
+
+
+
